@@ -20,7 +20,7 @@ import java.nio.ByteOrder;
 /**
  * IWriteable implementation with ByteBuffer as backend
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ByteBufferWriteable implements IBinaryWriteable {
 

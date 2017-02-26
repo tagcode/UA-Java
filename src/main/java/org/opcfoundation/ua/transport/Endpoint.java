@@ -28,6 +28,7 @@ import org.opcfoundation.ua.utils.ObjectUtils;
  * <p>
  * This class is hash-equals comparable.
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class Endpoint {
 

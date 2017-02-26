@@ -52,6 +52,8 @@ import org.slf4j.LoggerFactory;
  * Endpoint discovery is provided if endpoint url is unknown.
  *
  * @see Executors for creating executor instances
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class OpcTcpServer extends AbstractState<CloseableObjectState, ServiceResultException> implements EndpointServer {
 

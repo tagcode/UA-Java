@@ -18,6 +18,8 @@ import org.opcfoundation.ua.application.Server;
  *   the endpoint address (Endpoint),
  *   the listening socket (EndpointServer),
  *   and the service server (Server).
+ *   
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EndpointBinding {
 

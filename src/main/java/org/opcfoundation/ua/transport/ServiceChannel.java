@@ -24,6 +24,8 @@ import org.opcfoundation.ua.transport.security.SecurityPolicy;
 /**
  * This utility class envelopes Securechannel with client service methods.
  * See {@link ChannelService}.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ServiceChannel extends ChannelService implements SecureChannel {
 

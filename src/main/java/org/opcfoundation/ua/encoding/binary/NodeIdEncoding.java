@@ -16,6 +16,8 @@ import org.opcfoundation.ua.core.IdType;
 
 /**
  * NodeId binary encoding byte.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum NodeIdEncoding {
 

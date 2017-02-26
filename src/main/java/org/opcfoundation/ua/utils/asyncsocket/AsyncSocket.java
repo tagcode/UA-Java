@@ -23,7 +23,7 @@ import org.opcfoundation.ua.utils.IStatefulObject;
  * <p>AsyncSocket interface.</p>
  *
  * @see AsyncSocketImpl
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface AsyncSocket {
 

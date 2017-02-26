@@ -68,6 +68,8 @@ import org.slf4j.LoggerFactory;
 /**
  * A utility class for generating self-signed certificates for UA clients and
  * servers and for using them.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class CertificateUtils {
 

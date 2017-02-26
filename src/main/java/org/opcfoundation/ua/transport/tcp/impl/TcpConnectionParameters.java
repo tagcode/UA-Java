@@ -16,6 +16,8 @@ import org.opcfoundation.ua.utils.StackUtils;
 
 /**
  * TCP Connection parameters
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class TcpConnectionParameters implements Cloneable {
 	

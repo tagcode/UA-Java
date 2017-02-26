@@ -43,6 +43,8 @@ import org.opcfoundation.ua.utils.AbstractState;
  * a request with a SecureChannel.This means that Sessions can only be
  * considered secure if the AuthenticationToken (see Part 4) is long (&gt;20 bytes)
  * and HTTPS encryption is enabled.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class HttpsServerConnection extends AbstractState<CloseableObjectState, ServiceResultException> implements ServerConnection {
 	private static Logger logger = LoggerFactory.getLogger(HttpsServerConnection.class);

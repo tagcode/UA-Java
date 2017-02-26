@@ -14,6 +14,8 @@ package org.opcfoundation.ua.transport.tcp.impl;
 
 /**
  * TCP Communication headers
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class TcpMessageType {
 

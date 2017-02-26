@@ -28,6 +28,8 @@ import org.opcfoundation.ua.utils.CryptoUtil;
 
 /**
  * Security Token of a tcp connection
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SecurityToken {
 

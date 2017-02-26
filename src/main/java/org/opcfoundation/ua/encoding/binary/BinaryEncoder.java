@@ -71,7 +71,7 @@ import org.opcfoundation.ua.utils.bytebuffer.OutputStreamWriteable;
  * @see EncoderCalc Calculates lengths of messages
  * @see IEncoder encoder interface
  * @see BinaryDecoder binary decoder
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class BinaryEncoder implements IEncoder {
 	private static Logger logger = LoggerFactory.getLogger(BinaryEncoder.class);

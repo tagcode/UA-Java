@@ -15,7 +15,7 @@ package org.opcfoundation.ua.utils;
 /**
  * Listener for state changes
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface StateListener<StateType> {
 

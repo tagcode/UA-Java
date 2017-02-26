@@ -33,7 +33,7 @@ import org.opcfoundation.ua.encoding.utils.SerializerComposition;
  * @see SerializerComposition Implementation that unifies a set of serializers
  * @see EncodeableReflectionSerializer Reflection based implementation
  * @see EncodeableSerializer Code-generated implementation
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface IEncodeableSerializer {
 

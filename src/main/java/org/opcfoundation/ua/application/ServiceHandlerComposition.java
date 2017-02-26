@@ -35,6 +35,8 @@ import org.opcfoundation.ua.transport.endpoint.EndpointServiceRequest;
 
 /**
  * Composition of ServiceHandlers.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ServiceHandlerComposition implements ServiceHandler {
 

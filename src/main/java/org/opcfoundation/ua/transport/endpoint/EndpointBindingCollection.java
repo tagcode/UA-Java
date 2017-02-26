@@ -27,6 +27,7 @@ import org.opcfoundation.ua.utils.EndpointUtil;
 /**
  * <p>EndpointBindingCollection class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EndpointBindingCollection {
 

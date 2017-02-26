@@ -30,6 +30,8 @@ import org.opcfoundation.ua.encoding.binary.IEncodeableSerializer;
 
 /**
  * A collection of serializers for Structure types. Used by the encoders and decoders.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SerializerComposition implements IEncodeableSerializer {
 

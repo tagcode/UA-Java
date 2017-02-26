@@ -17,6 +17,7 @@ import org.opcfoundation.ua.utils.StateListener;
 /**
  * <p>MonitorListener interface.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface MonitorListener extends StateListener<BufferMonitorState> {
 

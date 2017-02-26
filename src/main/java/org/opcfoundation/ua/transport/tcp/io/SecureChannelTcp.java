@@ -93,6 +93,8 @@ import org.opcfoundation.ua.utils.TimerUtil;
  * Despite the name SecureChannelTcp, the class is 99% implemented as transport
  * channel agnostic. The plan is to upgrade the class to support SOAP transport
  * and rename to SecureChannelImpl.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SecureChannelTcp implements IMessageListener, IConnectionListener, ITransportChannel, org.opcfoundation.ua.transport.SecureChannel {
 

@@ -66,6 +66,8 @@ import org.opcfoundation.ua.utils.bytebuffer.ByteBufferUtils;
 /**
  * Discovery client enumerates endpoints.
  * Current version supports only opc.tcp protocol.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EndpointUtil {
 

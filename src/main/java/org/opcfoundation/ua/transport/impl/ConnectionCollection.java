@@ -24,6 +24,7 @@ import org.opcfoundation.ua.transport.ServerConnection;
 /**
  * <p>ConnectionCollection class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ConnectionCollection implements ConnectionMonitor {
 

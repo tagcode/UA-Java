@@ -21,7 +21,7 @@ import java.nio.ByteOrder;
 /**
  * Sends events when chunks are complete
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ByteBufferArrayWriteable2 implements IBinaryWriteable {
 

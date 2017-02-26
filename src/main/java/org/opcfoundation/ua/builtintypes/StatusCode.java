@@ -25,7 +25,7 @@ import org.opcfoundation.ua.core.StatusCodes;
  *
  * @see StatusCodes
  * @see StatusCodeDescriptions
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class StatusCode {	
 	

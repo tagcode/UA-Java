@@ -23,7 +23,7 @@ import java.util.Map.Entry;
  * Bijection map is a 1:1 binding of 2-tuples.
  * For each binding one value has role "left" and the other one the role "right".
  *
- * @author Toni Kalajainen
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class BijectionMap<L, R> {
 

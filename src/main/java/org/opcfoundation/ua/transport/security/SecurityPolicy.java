@@ -26,6 +26,7 @@ import org.opcfoundation.ua.utils.ObjectUtils;
  * symmetric encryption.
  *
  * @see CryptoUtil for instantiating cryptographics objects
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class SecurityPolicy {
 

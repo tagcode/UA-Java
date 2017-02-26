@@ -22,6 +22,8 @@ import org.opcfoundation.ua.core.MessageSecurityMode;
  * <p>
  * MessageSecurityMode determines whether to use encryption and whether to use signing
  * during _symmetric_ encryption, which is after hand-shake.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class SecurityMode {
 		

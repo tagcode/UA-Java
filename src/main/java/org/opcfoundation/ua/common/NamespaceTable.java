@@ -22,6 +22,8 @@ import org.opcfoundation.ua.builtintypes.NodeId;
  *
  * Use {@link #add} to add entries to the table. Use {@link #getIndex} to find the
  * index of an URI or {@link #getUri} to find the Uri of an index.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class NamespaceTable extends UriTable {
 

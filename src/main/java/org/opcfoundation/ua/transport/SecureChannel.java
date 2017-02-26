@@ -32,6 +32,8 @@ import org.opcfoundation.ua.transport.security.SecurityPolicy;
  *
  * If error recovery mode fails to re-establish new security token before the old
  * expires, the secure channel will be closed.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface SecureChannel extends RequestChannel {
 

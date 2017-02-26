@@ -35,6 +35,7 @@ import org.slf4j.LoggerFactory;
 /**
  * <p>HttpsServerSecureChannel class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class HttpsServerSecureChannel extends AbstractServerSecureChannel {
 	

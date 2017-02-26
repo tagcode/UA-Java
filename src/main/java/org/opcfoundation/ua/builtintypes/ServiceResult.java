@@ -23,6 +23,7 @@ import org.opcfoundation.ua.core.StatusCodes;
 /**
  * <p>ServiceResult class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ServiceResult {
 

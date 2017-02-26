@@ -26,6 +26,8 @@ import org.opcfoundation.ua.core.Identifiers;
  * This class is immutable - once it has been constructed its value cannot be changed.
  * <p>
  * To use int as backend use {@link UnsignedLong#toLongBits()} and {@link UnsignedLong#getFromBits(long)}.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class UnsignedLong extends Number implements Comparable<Number> {
 		

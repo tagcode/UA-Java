@@ -19,7 +19,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * <p>IStatefulObject interface.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface IStatefulObject<StateType, ErrorType extends Throwable> {
 

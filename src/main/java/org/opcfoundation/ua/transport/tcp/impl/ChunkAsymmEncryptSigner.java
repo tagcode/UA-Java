@@ -33,6 +33,8 @@ import org.slf4j.LoggerFactory;
 
 /**
  * <p>ChunkAsymmEncryptSigner class.</p>
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ChunkAsymmEncryptSigner implements Runnable {
 

@@ -24,6 +24,8 @@ import org.opcfoundation.ua.utils.bytebuffer.ByteBufferArrayReadable;
 
 /**
  * This {@link Callable} class unserializes chunk plaintexts into a message.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ChunksToMessage implements Callable<IEncodeable> {
 

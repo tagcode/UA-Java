@@ -18,6 +18,8 @@ import org.opcfoundation.ua.utils.StackUtils;
 
 /**
  * Secure Channel sequence number
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SequenceNumber {	
 	

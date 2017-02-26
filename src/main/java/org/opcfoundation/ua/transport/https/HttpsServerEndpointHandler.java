@@ -42,6 +42,7 @@ import org.slf4j.LoggerFactory;
 /**
  * <p>HttpsServerEndpointHandler class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class HttpsServerEndpointHandler implements HttpAsyncRequestHandler<HttpRequest> {
 

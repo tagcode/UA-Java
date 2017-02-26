@@ -73,6 +73,8 @@ import org.opcfoundation.ua.utils.TimerUtil;
 
 /**
  * Https Opc-Ua Client connection to an endpoint.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class HttpsClient implements ITransportChannel {
 

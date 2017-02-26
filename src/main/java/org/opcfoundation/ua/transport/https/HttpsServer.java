@@ -94,6 +94,8 @@ import org.opcfoundation.ua.utils.asyncsocket.AsyncServerSocket;
 
 /**
  * Host for an https endpoint
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class HttpsServer extends AbstractState<CloseableObjectState, ServiceResultException> implements EndpointServer {
 	

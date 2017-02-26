@@ -27,6 +27,8 @@ import org.opcfoundation.ua.transport.ServerSecureChannel;
  * A service request to be processed by a server (as opposed to service request queried by a client).
  * <p>
  * To send service error use sendResponse(new ServiceFault());
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class EndpointServiceRequest<Request extends ServiceRequest, Response extends ServiceResponse> {
 

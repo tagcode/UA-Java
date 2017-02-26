@@ -20,7 +20,7 @@ import java.util.concurrent.Executor;
 /**
  * <p>TimerUtil class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class TimerUtil {
 	

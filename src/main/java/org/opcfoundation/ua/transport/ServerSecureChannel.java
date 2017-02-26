@@ -23,6 +23,8 @@ import org.opcfoundation.ua.transport.security.SecurityPolicy;
 
 /**
  * Server side Secure channel.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface ServerSecureChannel {
 	

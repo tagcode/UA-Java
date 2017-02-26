@@ -32,7 +32,7 @@ import org.opcfoundation.ua.encoding.EncoderContext;
  * @see Arrays related
  * @see Arrays related
  * @see Collections related
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class MultiDimensionArrayUtils {
 

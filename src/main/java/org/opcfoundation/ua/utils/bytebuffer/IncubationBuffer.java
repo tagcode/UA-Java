@@ -26,7 +26,7 @@ import org.opcfoundation.ua.utils.IncubationQueue;
  * The data becomes available when the ByteBuffers are "hatched"
  * Input stream blocks until data becomes available.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class IncubationBuffer extends InputStream {
 

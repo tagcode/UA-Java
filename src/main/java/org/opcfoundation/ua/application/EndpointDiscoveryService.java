@@ -33,6 +33,7 @@ import org.opcfoundation.ua.transport.endpoint.EndpointServiceRequest;
 
 /**
  * Service handler that serves onGetEndpoints request.
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EndpointDiscoveryService {
 

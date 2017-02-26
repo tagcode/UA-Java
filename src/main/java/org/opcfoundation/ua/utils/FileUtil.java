@@ -25,6 +25,7 @@ import org.opcfoundation.ua.utils.bytebuffer.ByteQueue;
 /**
  * <p>FileUtil class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class FileUtil {
 

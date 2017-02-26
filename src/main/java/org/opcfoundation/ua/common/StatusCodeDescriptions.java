@@ -25,7 +25,7 @@ import org.opcfoundation.ua.utils.Description;
  * using reflection.
  *
  * @see StatusCode
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class StatusCodeDescriptions {
 

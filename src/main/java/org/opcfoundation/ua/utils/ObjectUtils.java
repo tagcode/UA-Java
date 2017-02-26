@@ -23,6 +23,8 @@ import java.util.Set;
 
 /**
  * Object utils
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ObjectUtils {
 

@@ -17,6 +17,8 @@ import java.lang.annotation.RetentionPolicy;
 
 /**
  * Description
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Description {

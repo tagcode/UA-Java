@@ -18,6 +18,8 @@ import org.opcfoundation.ua.common.ServiceResultException;
  * Result listener.
  *
  * Used with {@link AsyncResult}.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface ResultListener<T> {
 	

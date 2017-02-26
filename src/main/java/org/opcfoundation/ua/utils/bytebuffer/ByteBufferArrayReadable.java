@@ -20,7 +20,7 @@ import java.nio.ByteOrder;
 /**
  * <p>ByteBufferArrayReadable class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ByteBufferArrayReadable implements IBinaryReadable {
 

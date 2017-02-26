@@ -26,7 +26,8 @@ import java.util.concurrent.TimeoutException;
  *
  * @see IStatefulObject
  * @see StateListener Listener for state modifications
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class AbstractState<StateType, ErrorType extends Throwable> implements IStatefulObject<StateType, ErrorType> {
 

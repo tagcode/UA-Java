@@ -22,6 +22,8 @@ import org.opcfoundation.ua.core.StatusCodes;
  * A helper class for defining index ranges according to the OPC UA
  * specification. The index ranges are transferred as string values, but are
  * easier to use with the NumericRange.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class NumericRange {
 

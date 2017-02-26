@@ -24,7 +24,7 @@ import org.opcfoundation.ua.utils.BijectionMap;
 /**
  *
  * 
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class BuiltinsMap {
 
@@ -204,5 +204,5 @@ public class BuiltinsMap {
 		ID_CLASS_MAP.map(Identifiers.DiagnosticInfo, DiagnosticInfo.class);
 
 	}
-	
+
 }

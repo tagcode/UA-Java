@@ -19,6 +19,7 @@ import org.opcfoundation.ua.core.StatusCodes;
 
 /**
  * <p>DecodingException class.</p>
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class DecodingException extends ServiceResultException {
 

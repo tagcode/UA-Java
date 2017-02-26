@@ -19,7 +19,8 @@ import org.opcfoundation.ua.builtintypes.StatusCode;
  *
  * @see AllowAllCertificatesValidator allow all certificates
  * @see CertificateValidatorImpl basic implementation
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface CertificateValidator {
 	

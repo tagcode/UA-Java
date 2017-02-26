@@ -32,6 +32,8 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Decrypts and Verifies Chunk secured with asymmetric encryption
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ChunkAsymmDecryptVerifier implements Runnable {
 

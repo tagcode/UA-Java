@@ -23,6 +23,8 @@ package org.opcfoundation.ua.builtintypes;
  * changed.
  * <p>
  * To use int as backend use {@link UnsignedInteger#toIntBits()} and {@link UnsignedInteger#getFromBits(int)}.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class UnsignedInteger extends Number implements Comparable<Number> {
 

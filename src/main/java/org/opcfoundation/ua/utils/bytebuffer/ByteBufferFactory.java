@@ -18,7 +18,7 @@ import java.nio.ByteOrder;
 /**
  * <p>Abstract ByteBufferFactory class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class ByteBufferFactory {
 

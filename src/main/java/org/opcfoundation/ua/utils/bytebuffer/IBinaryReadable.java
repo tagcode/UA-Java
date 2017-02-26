@@ -27,7 +27,8 @@ import java.nio.ByteOrder;
  * @see ByteBufferReadable
  * @see InputStreamReadable
  * @see ByteBufferArrayReadable
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface IBinaryReadable {
 

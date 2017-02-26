@@ -25,6 +25,7 @@ import java.util.EnumSet;
  *   Closed -&gt; Opening -&gt; Open -&gt; Closing -&gt; Closed 
  *   Opening -&gt; Open -&gt; Closing -&gt; Closed
  * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum CloseableObjectState {
 

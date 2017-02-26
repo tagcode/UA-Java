@@ -24,8 +24,6 @@ import java.security.cert.CertificateException;
  * Valid and encodeable certificate, including signed public key and private key
  * This class aggregates private and public keys.
  *
- * TODO Use {@link KeyPair} Instead?
- *
  * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  * @author Mikko Salonen
  */

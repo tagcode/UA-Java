@@ -31,6 +31,7 @@ import org.opcfoundation.ua.utils.EndpointUtil;
  * <p>EndpointCollection class.</p>
  *
  * @deprecated Use EndpointBindingCollection
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EndpointCollection  {
 

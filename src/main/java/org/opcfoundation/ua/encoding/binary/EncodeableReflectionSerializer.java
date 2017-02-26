@@ -32,7 +32,7 @@ import org.opcfoundation.ua.encoding.utils.EncodeableDescTable;
  * Serializes {@link IEncodeable}s using reflection.
  * This class can encode anything that implements IEncodeable.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EncodeableReflectionSerializer implements IEncodeableSerializer {
 	

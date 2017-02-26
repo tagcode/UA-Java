@@ -58,6 +58,8 @@ import org.slf4j.LoggerFactory;
  * This is class contains Cryptographic utilities
  *
  * http://www.ietf.org/rfc/rfc2437.txt
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class CryptoUtil {
 

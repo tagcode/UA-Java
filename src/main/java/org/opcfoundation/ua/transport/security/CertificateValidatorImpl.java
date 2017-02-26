@@ -23,6 +23,7 @@ import org.opcfoundation.ua.core.StatusCodes;
 /**
  * <p>CertificateValidatorImpl class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class CertificateValidatorImpl implements CertificateValidator {
 

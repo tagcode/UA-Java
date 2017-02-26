@@ -44,6 +44,10 @@ import org.opcfoundation.ua.transport.security.HttpsSecurityPolicy;
 import org.opcfoundation.ua.transport.tcp.impl.ErrorMessage;
 import org.opcfoundation.ua.utils.StackUtils;
 
+/**
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
+ */
 class HttpsServerPendingRequest extends EndpointServiceRequest<ServiceRequest, ServiceResponse> implements Runnable {
 	/** Logger */
 	private final static Logger logger = LoggerFactory.getLogger(HttpsServerPendingRequest.class);

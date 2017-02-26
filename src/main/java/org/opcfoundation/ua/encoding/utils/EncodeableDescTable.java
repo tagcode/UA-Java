@@ -23,6 +23,7 @@ import org.opcfoundation.ua.encoding.IEncodeable;
  * Table containing descriptions of stub classes.
  *
  * @see EncodeableDesc
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EncodeableDescTable {
 	

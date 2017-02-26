@@ -24,7 +24,7 @@ import org.opcfoundation.ua.core.MessageSecurityMode;
  * and message security mode.
  *
  * @author Mikko Salonen
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SecurityConfiguration {
 	

@@ -21,8 +21,8 @@ import java.lang.reflect.Array;
  * SnapshotArray is synchronized list that provides copy-on-write-arraylist
  * of its contents.
  *
- * @author Toni Kalajainen
  * @param <T>
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SnapshotArray<T> {
     

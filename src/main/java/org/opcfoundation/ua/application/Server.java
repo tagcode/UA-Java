@@ -58,6 +58,7 @@ import org.opcfoundation.ua.utils.EndpointUtil;
  *
  * @see Application
  * @see ServiceHandler service handler
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class Server {
 

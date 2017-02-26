@@ -17,6 +17,7 @@ import java.util.Collection;
 /**
  * <p>ConnectionMonitor interface.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface ConnectionMonitor {
 

@@ -44,7 +44,8 @@ import org.opcfoundation.ua.utils.bytebuffer.ByteQueue;
  * @see AsyncInputStream Async input stream
  * @see AsyncOutputStream Async output stream
  * @see BufferMonitor Stream alarms
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class AsyncSocketImpl extends AbstractState<SocketState, IOException> implements AsyncSocket, IStatefulObject<SocketState, IOException> {
 

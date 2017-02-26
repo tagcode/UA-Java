@@ -46,6 +46,7 @@ import org.opcfoundation.ua.utils.asyncsocket.SocketState;
 /**
  * <p>Abstract AbstractServerConnection class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class AbstractServerConnection extends AbstractState<CloseableObjectState, ServiceResultException> implements ServerConnection, CloseableObject {
 	

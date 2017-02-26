@@ -20,6 +20,8 @@ import org.opcfoundation.ua.encoding.IEncodeable;
 
 /**
  * RequestChannel is a channel to do service requests with.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface RequestChannel {
 

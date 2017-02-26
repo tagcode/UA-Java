@@ -24,6 +24,7 @@ import org.opcfoundation.ua.transport.tcp.impl.TcpMessageType;
 /**
  * <p>PendingRequest class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class PendingRequest extends EndpointServiceRequest<ServiceRequest, ServiceResponse> {
 	

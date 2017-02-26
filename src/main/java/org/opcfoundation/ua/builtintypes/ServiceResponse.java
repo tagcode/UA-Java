@@ -17,7 +17,7 @@ import org.opcfoundation.ua.core.ResponseHeader;
 /**
  * Super interface for all service response messages
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface ServiceResponse extends Structure {
 

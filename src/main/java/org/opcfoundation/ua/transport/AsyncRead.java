@@ -18,6 +18,8 @@ import org.opcfoundation.ua.utils.AbstractState;
 
 /**
  * <p>AsyncRead class.</p>
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class AsyncRead extends AbstractState<ReadState, ServiceResultException> {
 

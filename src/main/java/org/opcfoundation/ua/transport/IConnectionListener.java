@@ -17,6 +17,7 @@ import org.opcfoundation.ua.common.ServiceResultException;
 /**
  * <p>IConnectionListener interface.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface IConnectionListener {
 

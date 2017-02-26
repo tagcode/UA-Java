@@ -20,6 +20,8 @@ import org.opcfoundation.ua.encoding.IEncodeable;
 
 /**
  * ErrorMessage is a message used in TCP Handshake.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ErrorMessage implements IEncodeable {
 

@@ -14,6 +14,7 @@ package org.opcfoundation.ua.encoding;
 
 /**
  * <p>EncoderMode class.</p>
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum EncoderMode {
 

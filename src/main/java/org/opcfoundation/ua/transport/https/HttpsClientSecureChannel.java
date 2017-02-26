@@ -37,6 +37,7 @@ import org.opcfoundation.ua.utils.StackUtils;
 /**
  * <p>HttpsClientSecureChannel class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class HttpsClientSecureChannel implements SecureChannel {
 

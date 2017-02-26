@@ -24,7 +24,7 @@ import java.nio.ByteOrder;
  * @see ByteBufferWriteable
  * @see ByteBufferArrayWriteable
  * @see ByteBufferArrayWriteable2
- * @see ByteBufferArrayWriteable2
+ * 
  * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
  */
 public interface IBinaryWriteable {

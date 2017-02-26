@@ -40,6 +40,8 @@ import org.xml.sax.SAXException;
 
 /**
  * An XML element is a container for XML DOM documents.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class XmlElement {
 

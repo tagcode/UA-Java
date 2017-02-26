@@ -19,6 +19,7 @@ import org.opcfoundation.ua.transport.EndpointServer;
 /**
  * <p>SecureChannelFactory class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SecureChannelFactory {
 

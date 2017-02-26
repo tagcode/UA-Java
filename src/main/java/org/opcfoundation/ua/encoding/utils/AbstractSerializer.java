@@ -26,7 +26,7 @@ import org.opcfoundation.ua.encoding.binary.IEncodeableSerializer;
 /**
  * Simple serializer that can serialize only one type of class.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class AbstractSerializer implements IEncodeableSerializer {
 

@@ -15,7 +15,7 @@ package org.opcfoundation.ua.utils;
 /**
  * <p>State class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class State<StateType> extends AbstractState<StateType, RuntimeException> {
 

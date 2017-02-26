@@ -34,7 +34,7 @@ import org.opcfoundation.ua.utils.bytebuffer.ByteBufferFactory;
  * <p>
  * Padding and the size of the message is pre-written to the chunk.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  * @author Mikko Salonen
  */
 public class ChunkFactory extends ByteBufferFactory {

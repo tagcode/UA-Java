@@ -26,6 +26,8 @@ import org.opcfoundation.ua.transport.tcp.nio.OpcTcpServer;
  * hosting for endpoints.
  *
  * @see OpcTcpServer tcp.opc implementation
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface EndpointServer extends CloseableObject, ConnectionMonitor {
 

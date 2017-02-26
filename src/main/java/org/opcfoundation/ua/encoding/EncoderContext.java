@@ -27,6 +27,7 @@ import org.opcfoundation.ua.utils.StackUtils;
 
 /**
  * <p>EncoderContext class.</p>
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EncoderContext {
 	private static EncoderContext defaultInstance = new EncoderContext(NamespaceTable.getDefaultInstance(), null, StackUtils.getDefaultSerializer());

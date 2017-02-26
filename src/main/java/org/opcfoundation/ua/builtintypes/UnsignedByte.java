@@ -18,6 +18,7 @@ import org.opcfoundation.ua.core.Identifiers;
 /**
  * <p>UnsignedByte class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class UnsignedByte extends Number implements Comparable<UnsignedByte> {
 		

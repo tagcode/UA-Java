@@ -49,7 +49,7 @@ import org.opcfoundation.ua.utils.MultiDimensionArrayUtils;
 /**
  * Calculates length in bytes of an encodeable if it were encoded with binary encoder.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EncoderCalc implements IEncoder {
 		

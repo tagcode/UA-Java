@@ -27,6 +27,7 @@ import java.util.EnumSet;
  *   Reading -&gt; Error
  *
  * @see AsyncRead
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum ReadState {
 	Waiting,		// Reply has not arrived 

@@ -28,7 +28,7 @@ import java.nio.ByteBuffer;
  *
  * @see BufferMonitor
  * @see AsyncSocketImpl
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class AsyncOutputStream extends OutputStream {
 

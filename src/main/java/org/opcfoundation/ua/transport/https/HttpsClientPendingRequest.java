@@ -42,6 +42,10 @@ import org.opcfoundation.ua.transport.UriUtil;
 import org.opcfoundation.ua.transport.impl.AsyncResultImpl;
 import org.opcfoundation.ua.transport.tcp.impl.ErrorMessage;
 
+/**
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
+ */
 class HttpsClientPendingRequest implements Runnable {
 
 	private static Logger logger = LoggerFactory.getLogger(HttpsClientPendingRequest.class);

@@ -18,7 +18,7 @@ import org.opcfoundation.ua.core.ResponseHeader;
 /**
  * <p>DecoderUtils class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class DecoderUtils {
 	

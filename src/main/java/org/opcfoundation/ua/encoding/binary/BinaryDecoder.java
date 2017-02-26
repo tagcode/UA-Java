@@ -61,6 +61,7 @@ import org.slf4j.LoggerFactory;
  *
  * @see IDecoder
  * @see BinaryEncoder
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class BinaryDecoder implements IDecoder {
 

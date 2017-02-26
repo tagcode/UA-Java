@@ -22,6 +22,8 @@ import org.opcfoundation.ua.transport.endpoint.EndpointServiceRequest;
 
 /**
  * Service handler that implements stack test
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class TestStackService implements TestServiceSetHandler {
 

@@ -29,7 +29,7 @@ import org.opcfoundation.ua.utils.asyncsocket.ListenableServerSocketChannel.Serv
 /**
  * ASyncoronous Server Socket
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class AsyncServerSocket extends AbstractState<ServerSocketState, IOException> {
 	ServerSocketChannel c;

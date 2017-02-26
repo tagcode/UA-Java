@@ -50,7 +50,7 @@ import org.opcfoundation.ua.utils.ObjectUtils;
  * See Language Codes <code>http://www.loc.gov/standards/iso639-2/php/English_list.php</code> 
  * @see <code>http://www.ietf.org/rfc/rfc3066.txt</code> 
  * @see Locale
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class LocalizedText {
 	

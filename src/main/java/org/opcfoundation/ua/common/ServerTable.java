@@ -15,6 +15,8 @@ package org.opcfoundation.ua.common;
 
 /**
  * Table for keeping the ServerUris, which are exposed by the server via the property Server.ServerArray.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ServerTable extends UriTable {
 	/**

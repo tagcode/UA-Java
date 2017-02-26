@@ -50,6 +50,8 @@ import org.opcfoundation.ua.utils.FileUtil;
 /**
  * Valid and encodeable private key.
  * Wrapper to {@link java.security.PrivateKey}
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class PrivKey {
 

@@ -25,6 +25,8 @@ import java.util.EnumSet;
  *   Queued -&gt; Writing -&gt; Error
  *
  * @see AsyncWrite
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum WriteState {
 	Ready,

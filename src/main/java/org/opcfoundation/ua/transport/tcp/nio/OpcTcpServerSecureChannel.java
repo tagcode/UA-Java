@@ -54,6 +54,7 @@ import org.slf4j.LoggerFactory;
 /**
  * <p>OpcTcpServerSecureChannel class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class OpcTcpServerSecureChannel extends AbstractServerSecureChannel {
 	

@@ -56,6 +56,7 @@ import org.opcfoundation.ua.utils.bytebuffer.ByteBufferUtils;
  * requests.
  *
  * TODO Keep-Alive
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SessionChannel extends ChannelService implements RequestChannel {
 

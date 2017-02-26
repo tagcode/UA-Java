@@ -33,6 +33,7 @@ import org.opcfoundation.ua.utils.StackUtils;
  *  - Secure channel id
  *  - Security tokens
  *  - State and Error State
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class AbstractServerSecureChannel extends AbstractState<CloseableObjectState, ServiceResultException> implements ServerSecureChannel {
 

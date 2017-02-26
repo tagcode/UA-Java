@@ -17,7 +17,6 @@ import org.opcfoundation.ua.utils.BijectionMap;
 
 /**
  * <p>UriTable class.</p>
- *
  */
 public class UriTable {
 

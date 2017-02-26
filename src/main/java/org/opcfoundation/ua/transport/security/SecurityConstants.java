@@ -15,7 +15,7 @@ package org.opcfoundation.ua.transport.security;
 /**
  * <p>SecurityConstants class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SecurityConstants {
 	

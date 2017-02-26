@@ -20,6 +20,8 @@ import java.util.Collection;
  * UAConnection is a stateful object with four possible states {Closed,
  * Opening, Open, Closing}. A connection is transfers to open state
  * after handshake (Hello/Acknowledge). Closed state is final.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface ServerConnection {
 

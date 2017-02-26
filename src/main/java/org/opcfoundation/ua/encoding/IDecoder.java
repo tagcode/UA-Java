@@ -41,6 +41,8 @@ import org.opcfoundation.ua.encoding.xml.XmlDecoder;
  * @see IEncoder
  * @see BinaryDecoder
  * @see XmlDecoder
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface IDecoder {
 	

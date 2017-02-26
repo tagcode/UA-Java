@@ -34,6 +34,7 @@ import org.opcfoundation.ua.utils.CryptoUtil;
  * 
  * @see ExpandedNodeId An identifier optional ServerIndex and/or explicit NamespaceUri
  * @see NamespaceTable 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class NodeId implements Comparable<NodeId> {
 

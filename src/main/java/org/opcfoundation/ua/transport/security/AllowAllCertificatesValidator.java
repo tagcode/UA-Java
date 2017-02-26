@@ -17,6 +17,7 @@ import org.opcfoundation.ua.builtintypes.StatusCode;
 /**
  * <p>AllowAllCertificatesValidator class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class AllowAllCertificatesValidator implements CertificateValidator {
 

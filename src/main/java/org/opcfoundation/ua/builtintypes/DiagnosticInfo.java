@@ -21,6 +21,7 @@ import org.opcfoundation.ua.utils.ObjectUtils;
 /**
  * <p>DiagnosticInfo class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class DiagnosticInfo {
 

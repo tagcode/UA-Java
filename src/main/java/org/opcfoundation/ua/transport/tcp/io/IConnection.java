@@ -24,6 +24,7 @@ import org.opcfoundation.ua.transport.TransportChannelSettings;
 /**
  * <p>IConnection interface.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface IConnection {	
 	

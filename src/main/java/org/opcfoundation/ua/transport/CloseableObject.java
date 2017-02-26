@@ -17,6 +17,8 @@ import org.opcfoundation.ua.utils.IStatefulObject;
 
 /**
  * <p>CloseableObject interface.</p>
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface CloseableObject extends IStatefulObject<CloseableObjectState, ServiceResultException> {
 

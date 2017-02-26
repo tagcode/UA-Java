@@ -23,7 +23,7 @@ import javax.net.ssl.X509KeyManager;
 /**
  * This class adapts a collection of key pair classes into a X509KeyManager.
  *
- * @author toni.kalajainen@semantum.fi
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class KeyPairsKeyManager implements X509KeyManager {
 

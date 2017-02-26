@@ -24,6 +24,7 @@ import org.opcfoundation.ua.encoding.IEncodeable;
 /**
  * This class discovers builtin encodeable nodeIds and
  * corresponding classes.
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EncodeableDiscovery {
 

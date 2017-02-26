@@ -54,6 +54,8 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Utility methods for the OPC UA Java Stack.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class StackUtils {
 	/**

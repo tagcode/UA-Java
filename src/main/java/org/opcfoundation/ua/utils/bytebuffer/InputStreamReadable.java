@@ -22,7 +22,7 @@ import java.nio.ByteOrder;
 /**
  * Input stream reader
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class InputStreamReadable implements IBinaryReadable {
 

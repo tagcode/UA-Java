@@ -19,6 +19,8 @@ import org.opcfoundation.ua.encoding.IEncodeable;
 
 /**
  * Acknowledge is a message used in TCP Handshake.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class Acknowledge implements IEncodeable {
 

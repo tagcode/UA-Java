@@ -26,7 +26,7 @@ import java.util.EnumSet;
  *   Ready -&gt; Connecting -&gt; Error
  *   Ready -&gt; Closed
  * 
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum SocketState {
 	

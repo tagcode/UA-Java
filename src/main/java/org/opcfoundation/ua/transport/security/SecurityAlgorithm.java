@@ -16,6 +16,9 @@ import java.util.EnumSet;
 
 /**
  * OPC UA specific security algorithm URIs and the respective Java StandardNames
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
+ * @author Jouni Aro
  */
 public enum SecurityAlgorithm {
 	// Symmetric signature	

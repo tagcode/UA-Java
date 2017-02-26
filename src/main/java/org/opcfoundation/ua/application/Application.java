@@ -48,6 +48,7 @@ import org.opcfoundation.ua.utils.StackUtils;
  *
  * @see Client OPC UA Client Application
  * @see Server OPC UA Server Application
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class Application {
 	private final static Logger logger = LoggerFactory.getLogger(Application.class);		

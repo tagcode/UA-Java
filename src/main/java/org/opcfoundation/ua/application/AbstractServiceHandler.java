@@ -19,6 +19,7 @@ import org.opcfoundation.ua.encoding.IEncodeable;
 /**
  * Abstract implementation for a service handler that can server only
  * one type of service request;
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class AbstractServiceHandler implements ServiceHandler {
 

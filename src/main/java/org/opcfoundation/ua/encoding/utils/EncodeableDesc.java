@@ -26,6 +26,7 @@ import org.opcfoundation.ua.encoding.IEncodeable;
  * Contains information about IEncodeable class
  *
  * @see EncodeableDescTable table of stub infos
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class EncodeableDesc {
 	

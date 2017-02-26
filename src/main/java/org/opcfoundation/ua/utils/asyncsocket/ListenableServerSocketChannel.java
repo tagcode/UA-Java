@@ -26,7 +26,7 @@ import org.opcfoundation.ua.utils.asyncsocket.AsyncSelector.SelectListener;
  * ListenableServerSocketChannel adds convenient listening mechanism over
  * non-blocking ServerSocketChannel.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ListenableServerSocketChannel {
     static Logger logger = LoggerFactory.getLogger(ListenableServerSocketChannel.class);

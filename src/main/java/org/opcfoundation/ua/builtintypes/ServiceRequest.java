@@ -17,7 +17,7 @@ import org.opcfoundation.ua.core.RequestHeader;
 /**
  * Super inteface for all service requests messages
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface ServiceRequest extends Structure {
 

@@ -27,6 +27,8 @@ import org.opcfoundation.ua.transport.tcp.io.OpcTcpSettings;
 
 /**
  * Transport channel settings for Client.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class TransportChannelSettings implements Cloneable {
 

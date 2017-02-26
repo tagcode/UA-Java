@@ -139,7 +139,7 @@ import org.opcfoundation.ua.utils.bytebuffer.OutputStreamWriteable;
  * TcpConnection captures security tokens from OpenSecureChannel conversation
  * and uses them for symmetric messaging. The oldest non-expired token is used.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class TcpConnection implements IConnection {
 

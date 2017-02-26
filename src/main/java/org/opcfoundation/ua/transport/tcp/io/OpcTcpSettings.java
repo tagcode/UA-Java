@@ -22,6 +22,7 @@ import org.opcfoundation.ua.transport.security.PrivKey;
 /**
  * <p>OpcTcpSettings class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class OpcTcpSettings {
 

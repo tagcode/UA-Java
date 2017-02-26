@@ -16,6 +16,8 @@ import java.util.EnumSet;
 
 /**
  * <p>ClientServiceRequestState class.</p>
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum ClientServiceRequestState {
 

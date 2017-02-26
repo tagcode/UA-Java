@@ -36,6 +36,8 @@ import org.opcfoundation.ua.utils.bytebuffer.ByteQueue;
  * ByteOrder is Little Endian.
  * <p>
  * Encoder also asserts that message size and chunk count is with-in limits.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class MessageToChunks implements Callable<ByteBuffer[]> 
 {

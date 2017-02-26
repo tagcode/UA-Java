@@ -25,7 +25,7 @@ import java.util.TreeMap;
  * Sequence number determines the order of how the data becomes visible
  * to the input stream.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class OrderedByteBufferInputStream extends InputStream {
 

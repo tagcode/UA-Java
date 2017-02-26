@@ -64,6 +64,8 @@ import org.slf4j.LoggerFactory;
 
 /**
  * OPC UA Client application
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class Client {
 	Logger logger = LoggerFactory.getLogger(Client.class);

@@ -27,7 +27,7 @@ import java.util.LinkedList;
  *
  * ByteQueue allocates new memory as required in chunks.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ByteQueue {
 	

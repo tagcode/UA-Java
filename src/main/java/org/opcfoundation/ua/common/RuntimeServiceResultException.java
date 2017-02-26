@@ -15,6 +15,7 @@ package org.opcfoundation.ua.common;
 /**
  * <p>RuntimeServiceResultException class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 @SuppressWarnings("serial")
 public class RuntimeServiceResultException extends RuntimeException {

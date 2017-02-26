@@ -36,6 +36,8 @@ import java.util.EnumSet;
  *   Encoding -&gt; Error
  *   <p>
  *   Encoding -&gt; Canceled
+ *   
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum MessageWriteState {
 

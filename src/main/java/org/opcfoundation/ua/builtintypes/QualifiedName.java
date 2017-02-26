@@ -18,6 +18,7 @@ import org.opcfoundation.ua.core.Identifiers;
 /**
  * A name qualified by a namespace.
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class QualifiedName {
 	

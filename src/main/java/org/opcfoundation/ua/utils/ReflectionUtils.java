@@ -25,7 +25,7 @@ import org.opcfoundation.ua.builtintypes.BuiltinsMap;
 /**
  * <p>ReflectionUtils class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ReflectionUtils {
 

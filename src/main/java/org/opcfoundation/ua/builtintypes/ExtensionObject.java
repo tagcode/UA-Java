@@ -35,6 +35,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Extension object contains a {@link Structure} which is either
  * XML or binary encoded.
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ExtensionObject {
 

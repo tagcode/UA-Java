@@ -17,7 +17,7 @@ import java.nio.ByteBuffer;
 /**
  * <p>ByteBufferUtils class.</p>
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ByteBufferUtils {
 

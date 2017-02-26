@@ -15,6 +15,8 @@ package org.opcfoundation.ua.transport.tcp.io;
 
 /**
  * Negotiated connection limits.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class TcpConnectionLimits implements Cloneable {
 		

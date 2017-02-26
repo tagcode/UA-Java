@@ -28,6 +28,8 @@ import org.opcfoundation.ua.core.Identifiers;
  * To create UnsignedShort from an integer value use
  * {@link UnsignedShort#toShortBits()} and
  * {@link UnsignedShort#getFromBits(short)}.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class UnsignedShort extends Number implements Comparable<UnsignedShort> {
 	

@@ -36,6 +36,10 @@ import org.opcfoundation.ua.transport.security.CertificateValidator;
 import org.opcfoundation.ua.transport.security.HttpsSecurityPolicy;
 import org.opcfoundation.ua.transport.security.KeyPair;
 
+/**
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
+ */
 public class HttpsSettings {
 	
 	/** Key Managers */

@@ -20,6 +20,7 @@ import org.opcfoundation.ua.utils.ObjectUtils;
 /**
  * <p>DataValue class.</p>
  *
+ * @author toni.kalajainen@iki.fi
  */
 public class DataValue implements Cloneable {
 

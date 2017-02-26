@@ -18,6 +18,8 @@ import org.opcfoundation.ua.utils.AbstractState;
 
 /**
  * Asynchronous message sending
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class AsyncWrite extends AbstractState<WriteState, ServiceResultException> {
 	

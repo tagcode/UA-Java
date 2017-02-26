@@ -42,7 +42,7 @@ import org.opcfoundation.ua.utils.asyncsocket.AsyncSelector.SelectListener;
  * ListenableSocketChannel guarantees that each event type (read/write/connect) is handled
  * at most by one thread.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class ListenableSocketChannel {
 	static Logger logger = LoggerFactory.getLogger(ListenableSocketChannel.class);

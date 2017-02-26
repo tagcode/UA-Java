@@ -44,6 +44,8 @@ import org.opcfoundation.ua.utils.bytebuffer.InputStreamReadable;
  * Message is decoded and chunks are deciphered and validated in background threads.
  * Deciphering is executed in StackUtils.getNonBlockerExecutor() which has one thread for each CPU core.
  * Decoding is executed in StackUtils.getBlockerExecutor() which creates new threads as needed.
+ * 
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class SecureInputMessageBuilder implements InputMessage {
 	

@@ -30,7 +30,7 @@ import org.opcfoundation.ua.utils.AbstractState;
  *        createAlarm(inputStream.getPosition() + 1000, null).
  *        waitForState(AlarmState.FINAL_STATES);
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class BufferMonitor extends AbstractState<BufferMonitorState, IOException> implements Comparable<BufferMonitor> {
 

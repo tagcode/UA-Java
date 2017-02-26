@@ -17,7 +17,7 @@ import java.util.concurrent.Executor;
 /**
  * Executor that executes commands immediately in invokers thread.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class CurrentThreadExecutor implements Executor {
 	

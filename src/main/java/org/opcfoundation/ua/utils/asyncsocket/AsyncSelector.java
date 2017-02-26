@@ -36,7 +36,7 @@ import org.opcfoundation.ua.utils.State;
  * AsyncSelector guarantees that selection event of a key is handled in one
  * thread at a time, and it the event handled accordingly, new selection events do not occur.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class AsyncSelector implements Runnable {
 

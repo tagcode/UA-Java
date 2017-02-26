@@ -25,7 +25,7 @@ import org.opcfoundation.ua.core.IdType;
  *
  * (Untested)
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class NodeReference {
 

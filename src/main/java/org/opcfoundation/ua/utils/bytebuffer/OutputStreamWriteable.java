@@ -21,7 +21,7 @@ import java.nio.ByteOrder;
 /**
  * Output stream writer
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class OutputStreamWriteable implements IBinaryWriteable {
 

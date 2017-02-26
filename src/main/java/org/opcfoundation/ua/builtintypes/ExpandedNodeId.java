@@ -36,6 +36,7 @@ import org.opcfoundation.ua.utils.ObjectUtils;
  *
  * @see NodeId Id with NamespaceIndex and not ServerIndex
  * @see NamespaceTable For converting ExpandedNodeIds to NodeIds
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public final class ExpandedNodeId implements Comparable<ExpandedNodeId>{
 

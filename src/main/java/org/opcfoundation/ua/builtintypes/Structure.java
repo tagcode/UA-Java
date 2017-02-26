@@ -17,7 +17,7 @@ import org.opcfoundation.ua.encoding.IEncodeable;
 /**
  * Super interface for all complex type serializable objects
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public interface Structure extends IEncodeable, Cloneable {
 

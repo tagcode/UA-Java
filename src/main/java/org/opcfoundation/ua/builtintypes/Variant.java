@@ -30,7 +30,7 @@ import org.opcfoundation.ua.utils.MultiDimensionArrayUtils;
  *
  * Encoders write a structure as an {@link ExtensionObject}.
  *
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class Variant {
 	private static Logger logger = LoggerFactory.getLogger(Variant.class);

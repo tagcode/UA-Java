@@ -14,6 +14,7 @@ package org.opcfoundation.ua.encoding;
 
 /**
  * <p>EncodeType class.</p>
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum EncodeType {
 	Binary,

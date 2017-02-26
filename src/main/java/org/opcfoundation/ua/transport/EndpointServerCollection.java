@@ -19,6 +19,7 @@ import java.util.List;
 /**
  * <p>EndpointServerCollection class.</p>
  *
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public class EndpointServerCollection {
 

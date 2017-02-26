@@ -31,7 +31,7 @@ import java.nio.ByteBuffer;
  *
  * @see AsyncSocketImpl
  * @see BufferMonitor
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public abstract class AsyncInputStream extends InputStream {
 	

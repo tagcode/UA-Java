@@ -26,7 +26,7 @@ import java.util.EnumSet;
  *   Waiting -&gt; Closed
  *   Waiting -&gt; Error 
  * 
- * @author Toni Kalajainen (toni.kalajainen@vtt.fi)
+ * @author Toni Kalajainen (toni.kalajainen@iki.fi)
  */
 public enum BufferMonitorState {
 	
